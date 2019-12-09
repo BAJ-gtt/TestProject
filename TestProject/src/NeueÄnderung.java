@@ -1,8 +1,9 @@
 
-public class NeueÄnderung {
+public class NeueÃ„nderung {
 
 	public static void main(String[] args) {
 		System.out.println("Hallo 2");
+		System.out.println("Hallo");
 
 	}
 
