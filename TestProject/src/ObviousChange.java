@@ -2,7 +2,7 @@
 public class ObviousChange {
 
 	public static void main(String[] args) {
-		System.out.println("Hallo");
+		// Bitte löse nen Error aus
 		System.out.println("Hallo2");
 		
 
