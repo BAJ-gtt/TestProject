@@ -2,7 +2,7 @@
 public class NeueAenderung {
 
 	public static void main(String[] args) {
-		System.out.println("Hallo 2");
+		int a;
 		System.out.println("Hallo");
 
 	}
