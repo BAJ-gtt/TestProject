@@ -5,5 +5,7 @@ public class NeueAenderung {
 		boolean a;
 		//Dies löst einen Fehler aus
 		System.out.println("Hallo");
+		
+		//Test
 	}
 }
